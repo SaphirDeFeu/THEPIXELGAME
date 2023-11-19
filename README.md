@@ -1,2 +1,1 @@
-# THEPIXELGAME
-don't clone or i hack u
+Thanks for public source code Thesnipercraft
